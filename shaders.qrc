@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/scene.vert</file>
+        <file>shaders/scene.frag</file>
+        <file>shaders/sky.vert</file>
+        <file>shaders/sky.frag</file>
+        <file>shaders/grid.vert</file>
+        <file>shaders/grid.frag</file>
+        <file>shaders/glow.vert</file>
+        <file>shaders/glow.frag</file>
+        <file>shaders/line.vert</file>
+        <file>shaders/line.frag</file>
+    </qresource>
+</RCC>
