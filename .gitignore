@@ -20,3 +20,7 @@ compile_commands.json
 # Catture e file locali
 *.png
 *.log
+
+# Schermate documentate: fanno eccezione, finiscono nel repo
+!screenshots/
+!screenshots/*.png

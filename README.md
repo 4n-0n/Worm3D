@@ -8,6 +8,15 @@ fanno esplodere, tre vite e un punteggio record persistente.
 C++20 + Qt6 + OpenGL 3.3 core. Nessuna texture, nessun modello, nessun file
 audio: mesh, cielo, griglia e suoni sono generati a runtime.
 
+## Schermate
+
+Giro in autopilota, frame catturati dalla finestra di gioco: nessun ritocco,
+nessun asset aggiunto.
+
+![WORMS 3D — livello 1, punteggio 65, verme di 9 segmenti](screenshots/autopilota-livello-01.png)
+
+![WORMS 3D — livello 6, punteggio 1397, verme di 13 segmenti, PUNTI x2 e INVINCIBILE attivi](screenshots/autopilota-livello-06.png)
+
 ## Compilare e giocare
 
 ```sh
